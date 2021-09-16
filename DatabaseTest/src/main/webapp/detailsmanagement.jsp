@@ -12,7 +12,7 @@
 <body>
 
 <header>
-<nav class="navbar navbar-expand-md navbar-dark" style="background-color: blue">
+<nav class="navbar navbar-expand-md navbar-dark" style="background-color: red">
 <div>
 <a href="https://www.javaguides.net" class="navbar-brand"> Details Management App </a>
 </div>
