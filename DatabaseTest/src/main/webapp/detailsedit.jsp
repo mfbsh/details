@@ -18,7 +18,7 @@ crossorigin="anonymous">
  <body> <header>
  <nav class="navbar navbar-expand-md navbar-dark" style="background-color: green">
  <div>
- <a href="https://www.javaguides.net" class="navbar-brand" style="background-color: green"> Details Management App </a>
+ <a href="https://www.javaguides.net" class="navbar-brand" style="background-color: red"> Details Management App </a>
  </div>
  <ul class="navbar-nav">
  <li><a href="<%=request.getContextPath()%>/list" class="nav-link">Details</a></li>
