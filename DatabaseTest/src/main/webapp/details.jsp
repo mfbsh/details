@@ -13,7 +13,7 @@
 
 </div>
 
-<div align="left" ">
+<div align="center" ">
 
 <body style="line-height:300%">
 
